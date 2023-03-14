@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imansafari1991&theme=synthwave&cache_seconds=200)
+![GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=imansafari1991&theme=synthwave&cache_seconds=200)
