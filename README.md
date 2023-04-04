@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imansafari1991&count_private=true&theme=tokyonight&showicons=true)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imansafari1991&langs_count=5&theme=tokyonight)]()
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imansafari1991&count_private=true&count_forked=true&theme=tokyonight&showicons=true)
 
