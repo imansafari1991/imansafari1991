@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imansafari1991&count_private=true&count_forked=true&theme=tokyonight&showicons=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imansafari1991&count_private=false&count_forked=true&theme=tokyonight&showicons=true&include_all_commits=true)
 
