@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=imansafari1991&count_private=true&count_forked=true&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imansafari1991&count_private=true&count_forked=true&cache_seconds=1800&include_all_commits=true)
 
